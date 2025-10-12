@@ -45,7 +45,7 @@ Focused on **clean architecture, security, and performance**.
 ### 📫 Contact
 <p align="center">
   💬 Email: <b>gtshadow33@gmail.com</b><br>
-  🌐 GitHub: <b><a href="https://github.com/gtshadow33">github.com/gts</a></b>
+  🌐 GitHub: <b><a href="https://github.com/gtshadow33">github.com/gtshadow33</a></b>
 </p>
 
 ---
