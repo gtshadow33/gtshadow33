@@ -2,17 +2,18 @@
 
 <p align="center">
   <b>Rust & SQL Developer</b><br>
-  Passionate about building fast, secure and data-driven applications.
+  Passionate about building fast, secure, and data-driven applications.
 </p>
 
 ---
 
-### 🧠 About me
+### 🧠 About Me
 - 🦀 Focused on **Rust** and **SQL**, combining performance with solid data design.  
 - 💾 Currently developing a **computer inventory management system** using SQL.  
-- 📚 **Autodidacta**, siempre aprendiendo por mi cuenta nuevas tecnologías y metodologías.  
-- 💪 Joven, determinado y profesional en todo lo que hago.  
-- 🚀 Me gusta escribir código limpio, estructurado y fácil de mantener.
+- 📚 **Self-taught**, with over **one year of experience learning and building projects independently**.  
+- 💪 Young, determined, and professional, always meeting goals and challenges.  
+- 🚀 I write **clean, structured, and maintainable code**.  
+- 🤝 Looking for **job opportunities** or **volunteer collaborations** to gain experience and contribute to real projects.  
 
 ---
 
@@ -20,7 +21,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
@@ -30,24 +30,24 @@
 ### 🧩 Current Project
 🗃️ **Computer Inventory System (SQL + Rust)**  
 A structured system for managing computer hardware and data efficiently using SQL.  
-Focused on clean architecture, security and performance.
+Focused on **clean architecture, security, and performance**.  
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gts&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gts&theme=tokyonight" height="165">
-</p>
+### 🌟 What I Offer
+- Experience in **backend development and database management**.  
+- Ability to create **CLI tools and desktop apps** in Rust.  
+- Willingness to **work in teams** or contribute to open source projects.  
+- Commitment, responsibility, and continuous learning.
 
 ---
 
 ### 📫 Contact
 <p align="center">
-  💬 You can reach me here on GitHub or by email: <b>your.email@example.com</b>  
-  (replace with your actual contact)
+  💬 Email: <b>gtshadow33@gmail.com</b><br>
+  🌐 GitHub: <b><a href="https://github.com/gtshadow33">github.com/gts</a></b>
 </p>
 
 ---
 
-⭐ *“Autodidacta, determinado y siempre en busca de la excelencia.”*
+⭐ *“Self-taught, determined, and always striving for excellence. Ready to contribute and learn on any project that requires it.”*
