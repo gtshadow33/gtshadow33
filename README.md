@@ -1,57 +1,42 @@
-<h1 align="center">🦀 Hey, I'm gts</h1>
+<h1 align="center">Hey, I'm gts</h1>
+<p align="center"> <b>Rust, SQL & C# Developer</b><br> Focused on building fast, secure, and maintainable software. </p>
+About Me
 
-<p align="center">
-  <b>Rust & SQL Developer</b><br>
-  Passionate about building fast, secure, and data-driven applications.
-</p>
+Developer focused on Rust, SQL/MySQL, and C# for performant backend systems.
 
----
+Currently building a computer inventory management system with a structured SQL schema and a Rust backend.
 
-### 🧠 About Me
-- 🦀 Focused on **Rust**, **SQL**, and **MySQL**, combining performance with solid data design.  
-- 💾 Currently developing a **computer inventory management system** using SQL and Rust.  
-- 📚 **Self-taught**, with over **one year of experience learning and building projects independently**.  
-- 💪 Young, determined, and professional, always **striving to be among the best**.  
-- 🚀 I write **clean, structured, and maintainable code**.  
-- 🌱 I know there’s **a lot left to learn**, but I’m highly motivated and eager to grow.  
-- 🤝 Looking for **job opportunities** or **volunteer collaborations** to gain experience and contribute to real projects.  
+Over one year of self-taught experience, working on real projects and sharpening backend and database skills.
 
----
+Strong focus on clean architecture, security, and code quality.
 
-### 🔧 Technologies & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+Highly motivated, ambitious, and continuously improving through learning and hands-on work.
 
----
+Open to job opportunities, collaboration, or volunteering to gain more real-world experience.
 
-### 🧩 Current Project
-🗃️ **Computer Inventory System (SQL + Rust)**  
-A structured system for managing computer hardware and data efficiently using SQL.  
-Focused on **clean architecture, security, and performance**.  
+Technologies & Tools
+<p align="center"> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> </p>
+Current Project
 
----
+Computer Inventory System (SQL + Rust)
+A structured and efficient system for managing computer hardware and organization data.
+Built with a focus on data integrity, performance, and scalable architecture.
 
-### 🌟 What I Offer
-- Experience in **backend development and database management**.  
-- Knowledge of **MySQL and other relational databases**.  
-- Ability to create **CLI tools and desktop apps** in Rust.  
-- Willingness to **work in teams** or contribute to open source projects.  
-- Commitment, responsibility, and continuous learning.  
-- A young developer with **lots of motivation and ambition to stand out** and be among the best.  
+What I Offer
 
----
+Backend development with Rust, C# (.NET), and SQL.
 
-### 📫 Contact
-<p align="center">
-  💬 Email: <b>gtshadow33@gmail.com</b><br>
-  🌐 GitHub: <b><a href="https://github.com/gtshadow33">github.com/gtshadow33</a></b>
-</p>
+Experience designing and optimizing relational databases.
 
----
+Ability to create CLI tools, desktop utilities, and backend services.
 
-⭐ *“Self-taught, determined, and always striving for excellence. Ready to contribute, learn, and grow on any project that requires it.”*
+Efficient, organized, and maintainable coding practices.
+
+Strong motivation, responsibility, and constant growth.
+
+Great interest in working in teams, contributing to open-source, and gaining professional experience.
+
+Contact
+<p align="center"> Email: <b>gtshadow33@gmail.com</b><br> GitHub: <b><a href="https://github.com/gtshadow33">github.com/gtshadow33</a></b> </p>
+
+“Self-taught, determined, and focused on continuous improvement. Ready to contribute and grow.”
