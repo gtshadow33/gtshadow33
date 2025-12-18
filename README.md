@@ -63,4 +63,4 @@ Aquí algunos proyectos donde he contribuido:
 
 ---
 
-![GIF de coding animado](https://media.giphy.com/media/3o7aCSPqXE7QXK5wzC/giphy.gif)
+
