@@ -7,7 +7,7 @@ Bienvenido a mi GitHub. Aquí comparto **proyectos, tecnologías que domino y tr
 
 ---
 
-##  Tecnologías y Herramientas
+## 🚀 Tecnologías y Herramientas
 
 Trabajo con una mezcla de **frontend, backend y aplicaciones de escritorio**, siempre explorando nuevas posibilidades.  
 
@@ -18,52 +18,48 @@ Trabajo con una mezcla de **frontend, backend y aplicaciones de escritorio**, si
 
 ---
 
-##  Proyectos Destacados
+## 📂 Proyectos Destacados
 
 ### 1️⃣ **Portfolio Personal (React + Vercel)**
 - SPA moderna con animaciones y diseño responsivo.  
 - 🔗 [Ver proyecto](https://portfolio-react-ashen-pi.vercel.app/)  
 
-
 ### 2️⃣ **Aplicación Electron + React**
 - App de escritorio multiplataforma con persistencia local.
 - ⚡ Colaborativa y optimizada para productividad.  
 
-
 ### 3️⃣ **Web App Vue.js + TypeScript**
 - SPA con componentes reutilizables, integración con APIs y animaciones modernas.  
-
 
 ### 4️⃣ **Herramientas en Rust y C#**
 - Scripts y utilidades de automatización y optimización.  
 - 🛠️ Proyectos open-source y colaborativos.  
 
+---
+
+## 📈 Estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gtshadow33&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gtshadow33&layout=compact&theme=radical)
 
 ---
 
-##  Estadísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jesus-carrasquilla&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-carrasquilla&layout=compact&theme=radical)
-
----
-
-##  Hecho juntos
+## 🤝 Hecho juntos
 
 Me encanta **colaborar en proyectos open-source y trabajar en equipo**.  
 Aquí algunos proyectos donde he contribuido:  
 
-- 🔹 [Nombre Proyecto 1](#) – Contribuciones en frontend y diseño.  
-- 🔹 [Nombre Proyecto 2](#) – Scripts de automatización y optimización.  
-- 🔹 [Nombre Proyecto 3](#) – Integración de APIs y mejoras UX/UI.
+- 🔹 [Proyecto 1](#) – Contribuciones en frontend y diseño.  
+- 🔹 [Proyecto 2](#) – Scripts de automatización y optimización.  
+- 🔹 [Proyecto 3](#) – Integración de APIs y mejoras UX/UI.
 
-
+---
 
 ## 💬 Contacto
 
--  Email: jesuscarrasquilla@example.com  
--  Portfolio: [portfolio-react-ashen-pi.vercel.app](https://portfolio-react-ashen-pi.vercel.app/)  
--  LinkedIn: [linkedin.com/in/jesus-carrasquilla-13017a38a](https://www.linkedin.com/in/jesus-carrasquilla-13017a38a)  
+- 📧 Email: jesuscarrasquilla@example.com  
+- 🌐 Portfolio: [portfolio-react-ashen-pi.vercel.app](https://portfolio-react-ashen-pi.vercel.app/)  
+- 💼 LinkedIn: [linkedin.com/in/jesus-carrasquilla-13017a38a](https://www.linkedin.com/in/jesus-carrasquilla-13017a38a)  
 
 ---
 
