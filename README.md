@@ -23,21 +23,21 @@ Trabajo con una mezcla de **frontend, backend y aplicaciones de escritorio**, si
 ### 1️⃣ **Portfolio Personal (React + Vercel)**
 - SPA moderna con animaciones y diseño responsivo.  
 - 🔗 [Ver proyecto](https://portfolio-react-ashen-pi.vercel.app/)  
-![GIF Portfolio](https://media.giphy.com/media/xT5LMLAx7VfP2z1vCE/giphy.gif)
+
 
 ### 2️⃣ **Aplicación Electron + React**
 - App de escritorio multiplataforma con persistencia local.
 - ⚡ Colaborativa y optimizada para productividad.  
-![GIF Electron](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 
 ### 3️⃣ **Web App Vue.js + TypeScript**
 - SPA con componentes reutilizables, integración con APIs y animaciones modernas.  
-![GIF Vue](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
 
 ### 4️⃣ **Herramientas en Rust y C#**
 - Scripts y utilidades de automatización y optimización.  
 - 🛠️ Proyectos open-source y colaborativos.  
-![GIF Rust](https://media.giphy.com/media/l0MYGBz0Q9bYkXrEw/giphy.gif)
+
 
 ---
 
