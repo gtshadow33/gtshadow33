@@ -1,42 +1,70 @@
-<h1 align="center">Hey, I'm Jesús Carrasquilla</h1>
-<p align="center"> <b>Rust, SQL & C# Developer</b><br> Focused on building fast, secure, and maintainable software. </p>
-About Me
+# 👋 ¡Hola! Soy Jesús Carrasquilla
 
-Developer focused on Rust, SQL/MySQL, and C# for performant backend systems.
+Bienvenido a mi GitHub. Aquí comparto **proyectos, tecnologías que domino y trabajos colaborativos**, siempre buscando aprender y crear cosas increíbles. 💻✨
 
-Currently building a computer inventory management system with a structured SQL schema and a Rust backend.
+🌐 **Portfolio:** [portfolio-react-ashen-pi.vercel.app](https://portfolio-react-ashen-pi.vercel.app/)  
+💼 **LinkedIn:** [linkedin.com/in/jesus-carrasquilla-13017a38a](https://www.linkedin.com/in/jesus-carrasquilla-13017a38a)
 
-Over one year of self-taught experience, working on real projects and sharpening backend and database skills.
+---
 
-Strong focus on clean architecture, security, and code quality.
+##  Tecnologías y Herramientas
 
-Highly motivated, ambitious, and continuously improving through learning and hands-on work.
+Trabajo con una mezcla de **frontend, backend y aplicaciones de escritorio**, siempre explorando nuevas posibilidades.  
 
-Open to job opportunities, collaboration, or volunteering to gain more real-world experience.
+| Frontend | Backend | Desktop | Otros |
+|----------|---------|---------|-------|
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+| ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) |
 
-Technologies & Tools
-<p align="center"> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> </p>
-Current Project
+---
 
-Computer Inventory System (SQL + Rust)
-A structured and efficient system for managing computer hardware and organization data.
-Built with a focus on data integrity, performance, and scalable architecture.
+##  Proyectos Destacados
 
-What I Offer
+### 1️⃣ **Portfolio Personal (React + Vercel)**
+- SPA moderna con animaciones y diseño responsivo.  
+- 🔗 [Ver proyecto](https://portfolio-react-ashen-pi.vercel.app/)  
+![GIF Portfolio](https://media.giphy.com/media/xT5LMLAx7VfP2z1vCE/giphy.gif)
 
-Backend development with Rust, C# (.NET), and SQL.
+### 2️⃣ **Aplicación Electron + React**
+- App de escritorio multiplataforma con persistencia local.
+- ⚡ Colaborativa y optimizada para productividad.  
+![GIF Electron](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
-Experience designing and optimizing relational databases.
+### 3️⃣ **Web App Vue.js + TypeScript**
+- SPA con componentes reutilizables, integración con APIs y animaciones modernas.  
+![GIF Vue](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
-Ability to create CLI tools, desktop utilities, and backend services.
+### 4️⃣ **Herramientas en Rust y C#**
+- Scripts y utilidades de automatización y optimización.  
+- 🛠️ Proyectos open-source y colaborativos.  
+![GIF Rust](https://media.giphy.com/media/l0MYGBz0Q9bYkXrEw/giphy.gif)
 
-Efficient, organized, and maintainable coding practices.
+---
 
-Strong motivation, responsibility, and constant growth.
+##  Estadísticas
 
-Great interest in working in teams, contributing to open-source, and gaining professional experience.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jesus-carrasquilla&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jesus-carrasquilla&layout=compact&theme=radical)
 
-Contact
-<p align="center"> Email: <b>gtshadow33@gmail.com</b><br> GitHub: <b><a href="https://github.com/gtshadow33">github.com/gtshadow33</a></b> </p>
+---
 
-“Self-taught, determined, and focused on continuous improvement. Ready to contribute and grow.”
+##  Hecho juntos
+
+Me encanta **colaborar en proyectos open-source y trabajar en equipo**.  
+Aquí algunos proyectos donde he contribuido:  
+
+- 🔹 [Nombre Proyecto 1](#) – Contribuciones en frontend y diseño.  
+- 🔹 [Nombre Proyecto 2](#) – Scripts de automatización y optimización.  
+- 🔹 [Nombre Proyecto 3](#) – Integración de APIs y mejoras UX/UI.
+
+
+
+## 💬 Contacto
+
+-  Email: jesuscarrasquilla@example.com  
+-  Portfolio: [portfolio-react-ashen-pi.vercel.app](https://portfolio-react-ashen-pi.vercel.app/)  
+-  LinkedIn: [linkedin.com/in/jesus-carrasquilla-13017a38a](https://www.linkedin.com/in/jesus-carrasquilla-13017a38a)  
+
+---
+
+![GIF de coding animado](https://media.giphy.com/media/3o7aCSPqXE7QXK5wzC/giphy.gif)
