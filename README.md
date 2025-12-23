@@ -1,13 +1,14 @@
 # 👋 ¡Hola! Soy Jesús Carrasquilla
 
 Bienvenido a mi GitHub. Aquí comparto **proyectos, tecnologías que domino y trabajos colaborativos**, siempre buscando aprender y crear cosas increíbles. 💻✨
-
-🌐 **Portfolio:** [portfolio-react-ashen-pi.vercel.app](https://portfolio-react-ashen-pi.vercel.app/)  
-💼 **LinkedIn:** [linkedin.com/in/jesus-carrasquilla-13017a38a](https://www.linkedin.com/in/jesus-carrasquilla-13017a38a)
+https://gtshadow33.github.io/portafolios-vite/#/
+ **Portfolio-react:** [portfolio-react-ashen-pi.vercel.app](https://portfolio-react-ashen-pi.vercel.app/)  
+ **Portfolio-vue:** [gtshadow33.github.io/portafolios-vite/#/](https://gtshadow33.github.io/portafolios-vite/#/)  
+ **LinkedIn:** [linkedin.com/in/jesus-carrasquilla-13017a38a](https://www.linkedin.com/in/jesus-carrasquilla-13017a38a)
 
 ---
 
-## 🚀 Tecnologías y Herramientas
+##  Tecnologías y Herramientas
 
 Trabajo con una mezcla de **frontend, backend y aplicaciones de escritorio**, siempre explorando nuevas posibilidades.  
 
@@ -18,7 +19,7 @@ Trabajo con una mezcla de **frontend, backend y aplicaciones de escritorio**, si
 
 ---
 
-## 📂 Proyectos Destacados
+##  Proyectos Destacados
 
 ### 1️⃣ **Portfolio Personal (React + Vercel)**
 - SPA moderna con animaciones y diseño responsivo.  
@@ -26,7 +27,7 @@ Trabajo con una mezcla de **frontend, backend y aplicaciones de escritorio**, si
 
 ### 2️⃣ **Aplicación Electron + React**
 - App de escritorio multiplataforma con persistencia local.
-- ⚡ Colaborativa y optimizada para productividad.  
+-  Colaborativa y optimizada para productividad.  
 
 ### 3️⃣ **Web App Vue.js + TypeScript**
 - SPA con componentes reutilizables, integración con APIs y animaciones modernas.  
