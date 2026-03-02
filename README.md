@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Jesús Carrasquilla
+#  ¡Hola! Soy Jesús Carrasquilla
 
-Bienvenido a mi GitHub. Aquí comparto **proyectos, tecnologías que domino y trabajos colaborativos**, siempre buscando aprender y crear cosas increíbles. 💻✨
+Bienvenido a mi GitHub. Aquí comparto **proyectos, tecnologías que domino y trabajos colaborativos**, siempre buscando aprender y crear cosas increíbles. 
 https://gtshadow33.github.io/portafolios-vite/#/
  **Portfolio-react:** [portfolio-react-ashen-pi.vercel.app](https://portfolio-react-ashen-pi.vercel.app/)  
  **Portfolio-vue:** [gtshadow33.github.io/portafolios-vite/#/](https://gtshadow33.github.io/portafolios-vite/#/)  
@@ -21,31 +21,31 @@ Trabajo con una mezcla de **frontend, backend y aplicaciones de escritorio**, si
 
 ##  Proyectos Destacados
 
-### 1️⃣ **Portfolio Personal (React + Vercel)**
+###  **Portfolio Personal (React + Vercel)**
 - SPA moderna con animaciones y diseño responsivo.  
-- 🔗 [Ver proyecto](https://portfolio-react-ashen-pi.vercel.app/)  
+-  [Ver proyecto](https://portfolio-react-ashen-pi.vercel.app/)  
 
-### 2️⃣ **Aplicación Electron + React**
+###  **Aplicación Electron + React**
 - App de escritorio multiplataforma con persistencia local.
 -  Colaborativa y optimizada para productividad.  
 
-### 3️⃣ **Web App Vue.js + TypeScript**
+###  **Web App Vue.js + TypeScript**
 - SPA con componentes reutilizables, integración con APIs y animaciones modernas.  
 
-### 4️⃣ **Herramientas en Rust y C#**
+###  **Herramientas en Rust y C#**
 - Scripts y utilidades de automatización y optimización.  
-- 🛠️ Proyectos open-source y colaborativos.  
+-  Proyectos open-source y colaborativos.  
 
 ---
 
-## 📈 Estadísticas
+##  Estadísticas
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gtshadow33&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gtshadow33&layout=compact&theme=radical)
 
 ---
 
-## 🤝 Hecho juntos
+##  Hecho juntos
 
 Me encanta **colaborar en proyectos open-source y trabajar en equipo**.  
 Aquí algunos proyectos donde he contribuido:  
@@ -56,11 +56,11 @@ Aquí algunos proyectos donde he contribuido:
 
 ---
 
-## 💬 Contacto
+##  Contacto
 
-- 📧 Email: jesuscarrasquilla@example.com  
-- 🌐 Portfolio: [portfolio-react-ashen-pi.vercel.app](https://portfolio-react-ashen-pi.vercel.app/)  
-- 💼 LinkedIn: [linkedin.com/in/jesus-carrasquilla-13017a38a](https://www.linkedin.com/in/jesus-carrasquilla-13017a38a)  
+-  Email: jesuscarrasquilla@example.com  
+-  Portfolio: [portfolio-react-ashen-pi.vercel.app](https://portfolio-react-ashen-pi.vercel.app/)  
+-  LinkedIn: [linkedin.com/in/jesus-carrasquilla-13017a38a](https://www.linkedin.com/in/jesus-carrasquilla-13017a38a)  
 
 ---
 
