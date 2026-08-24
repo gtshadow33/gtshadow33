@@ -4,7 +4,7 @@ Bienvenido a mi GitHub. Aquí comparto **proyectos, tecnologías que domino y tr
 https://gtshadow33.github.io/portafolios-vite/#/
  **Portfolio-react:** [portfolio-react-ashen-pi.vercel.app](https://portfolio-react-ashen-pi.vercel.app/)  
  **Portfolio-vue:** [gtshadow33.github.io/portafolios-vite/#/](https://gtshadow33.github.io/portafolios-vite/#/)  
- **LinkedIn:** [linkedin.com/in/jesus-carrasquilla-13017a38a](https://www.linkedin.com/in/jesus-carrasquilla-13017a38a)
+
 
 ---
 
